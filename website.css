@@ -1,0 +1,416 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+    position: relative;
+}
+
+/* Banner styles */
+.banner {
+    position: relative;
+    height: 100vh;
+    background-image: url('nnn.jpg'); /* Replace 'nnn.jpg' with your image file */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Button container styles */
+.button-container {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.button-container a {
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.5);
+    color:black;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 0 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.button-container a:hover {
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+/* Text container styles */
+.text-container {
+    margin-top: 20px;
+}
+
+.text-container h1 {
+    font-size: 36px;
+}
+
+/* Footer styles */
+footer {
+    
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Banner styles */
+.banner {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* Button container styles */
+.button-container {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.button-container a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Banner styles */
+.banner {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* Button container styles */
+.button-container {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.button-container a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Banner styles */
+.banner {
+    position: relative;
+    height: 100vh;
+    background-image: url('nn.jpg'); 
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+/* Button container styles */
+.button-container {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 1; /* Ensure button container is above background image */
+}
+
+.button-container a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+/* About section styles */
+.about-section {
+    position: absolute;
+    top: 54%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1; /* Ensure about section is above background image */
+    width: 80%;
+    max-width: 800px;
+    background-color: rgba(241, 206, 236, 0.167);
+    padding: 20px;
+    color: #fff;
+}
+.about-col-1 img {
+    max-width:175px; /* Set maximum width to 100% */
+    height: 20%; /* Maintain aspect ratio */
+    display: block; /* Ensure the image is displayed as a block element */
+    margin: 0 auto;
+
+    /* Center the image horizontally */
+}
+
+.sub-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    
+}
+
+/* Tab titles styles */
+.tab-titles {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.tab-links {
+    cursor: pointer;
+    margin-right: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #858181;
+}
+
+.tab-links.active-link {
+    background-color: #555;
+    color: #fff;
+}
+
+/* Tab contents styles */
+.tab-contents {
+    display: none;
+}
+
+.tab-contents.active-tab {
+    display: block;
+}
+
+.tab-contents ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+/* Footer styles */
+.footer {
+    color: #fff;
+    text-align: center;
+    padding: 1px 0;
+    position: fixed;
+    bottom: 2;
+    width: 100%;
+}
+
+/* Add your CSS styles here */
+
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+    position: relative;
+}
+
+/* Banner styles */
+.banner {
+    position: relative;
+    height: 100vh;
+    background-image: url('nn.jpg'); /* Replace 'nnn.jpg' with your image file */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Button container styles */
+.button-container {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 1; /* Ensure button container is above background image */
+}
+
+.button-container a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+/* Contact info styles */
+.contact-info {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(212, 162, 206, 0.158); /* Semi-transparent background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(237, 233, 233, 0.5); /* Add box shadow */
+}
+
+.contact-info .container {
+    max-width: 800px;
+    color: #f9f9f9;
+}
+
+.contact-info h2 {
+    margin-bottom: 10px;
+}
+
+.contact-info p {
+    margin: 5px 0;
+}
+
+.resume-section {
+    text-align: center; /* Center align the button */
+}
+
+.resume-section a {
+    background-color: #ebb8e62a;
+    color: #dfb8d5;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block; /* Display as inline block */
+    margin-top: 20px;
+}
+
+.resume-section a:hover {
+
+    background-color: #ecf0f3;
+    margin-top: 20px;
+    color: #fff;
+}
+
+
+/* Footer styles */
+footer {
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+/* Add your general styles here */
+
+/* Media query for phone views */
+@media only screen and (max-width: 600px) {
+    /* Banner styles */
+    .banner {
+        height: 100vh;
+        text-align: center;
+        position: relative; /* Adjust the height for better visibility on smaller screens */
+        font-size: 15px;
+    }
+
+
+    /* Button container styles */
+    .button-container {
+        
+       
+        width: 100%;
+        size: 10%;
+        font-size: 15px;
+
+    }
+     .about-col-1 img {
+        max-width: 30%; /* Set maximum width to 100% of the container */
+        height: auto; /* Ensure the aspect ratio is maintained */
+    }
+    
+
+    /* Contact info styles */
+    .contact-info {
+        width: 75%; /* Adjust width for better fit on smaller screens */
+        padding: 5px; /* Adjust padding for better spacing */
+    }
+
+    .contact-info h2 {
+        font-size: 15px; /* Adjust font size for better readability */
+    }
+
+    .contact-info p {
+        font-size: 15px; /* Adjust font size for better readability */
+    }
+
+    .resume-section {
+        margin-top: 10px; /* Adjust margin for better spacing */
+    }
+
+    .resume-section a {
+        padding: 4px 10px; /* Adjust padding for better button size */
+        font-size: 15px;
+        size: 10px; /* Adjust font size for better readability */
+    }
+
+    
+
